@@ -1,0 +1,40 @@
+2017-09-22 21:43:52.171908 10.1.2.10 DEBUG: [*] JSON output: {"language": "javascript", "_id": "_design/pokemon", "_rev": "1-70f06ea20b602ccfd04c98ba0f1e88b7", "views": {"emit_doc": {"map": "function(doc) {\n  emit(null, doc);\n}"}}}
+2017-09-22 21:43:52.172148 10.1.2.10 DEBUG: [*] Design doc output: couchdb_design_queue
+2017-09-22 21:43:52.173311 10.1.2.10 DEBUG: [*] Design doc output: couchdb_design_queue
+2017-09-22 21:43:52.194223 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_design_queue
+2017-09-22 21:43:52.200338 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Ash", "type": ["Water"], "owned": "1999-05-21", "_rev": "1-aca0ebf9558bff699d291e8566e4d8c5", "name": "Squirtle", "_id": "eef4942df122eca937bfbd6f470621eb"}
+2017-09-22 21:43:52.200548 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.200682 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.219056 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.226640 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Ash", "type": ["Electric"], "owned": "1999-01-02", "_rev": "1-dbc0451c527e6eb780842737e7d2518f", "name": "Pikachu", "_id": "eef4942df122eca937bfbd6f470629da"}
+2017-09-22 21:43:52.226840 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.226965 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.247408 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.255656 10.1.2.10 DEBUG: [*] JSON output: {"gender": "f", "trainer": "Misty", "type": ["Water"], "owned": "1999-03-17", "_rev": "1-ee128b37dee6c640899338a78f400ef1", "name": "Starmie", "_id": "eef4942df122eca937bfbd6f47062d6d"}
+2017-09-22 21:43:52.255882 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.256011 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.276647 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.282900 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Brock", "type": ["Rock"], "owned": "1998-12-29", "_rev": "1-cafc550a3ee38464ed6b62806b21f5a8", "name": "Onix", "_id": "eef4942df122eca937bfbd6f470636dc"}
+2017-09-22 21:43:52.283107 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.283257 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.305301 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.312934 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Ash", "type": ["Fire"], "owned": "1999-03-16", "_rev": "1-a47231426e2907a5638df55ba6341c67", "name": "Charizard", "_id": "eef4942df122eca937bfbd6f47063e5c"}
+2017-09-22 21:43:52.313124 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.313278 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.332894 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.339222 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Misty", "type": ["Water", "Psychic"], "owned": "1999-04-29", "_rev": "1-f68bf7dd65730ebe9a65c133ffaa8589", "name": "Psyduck", "_id": "eef4942df122eca937bfbd6f47064019"}
+2017-09-22 21:43:52.339414 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.339547 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.359864 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.366505 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Team Rocket", "type": ["Normal"], "owned": "1998-01-23", "_rev": "1-211030180073497927f6d0486eb77c23", "name": "Meowth", "_id": "eef4942df122eca937bfbd6f47064ae2"}
+2017-09-22 21:43:52.366734 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.366859 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.386234 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.392520 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Ash", "type": ["Fire", "Flying"], "owned": "2015-02-10", "_rev": "1-696e4a6857533f23fd5426f80b46f60f", "name": "Talonflame", "_id": "eef4942df122eca937bfbd6f47065a7e"}
+2017-09-22 21:43:52.392716 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.392818 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.411459 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
+2017-09-22 21:43:52.417386 10.1.2.10 DEBUG: [*] JSON output: {"gender": "m", "trainer": "Ash", "type": ["Water"], "owned": "2015-07-11", "_rev": "1-3f01651aca5d64074967b114e0f37364", "name": "Froakie", "_id": "eef4942df122eca937bfbd6f47065f5b"}
+2017-09-22 21:43:52.417579 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.417733 10.1.2.10 DEBUG: [*] Std doc output: couchdb_doc_queue
+2017-09-22 21:43:52.437944 10.1.2.10 DEBUG: [*] Message Sent to queue couchdb_doc_queue
